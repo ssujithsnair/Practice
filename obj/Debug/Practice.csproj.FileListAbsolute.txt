@@ -1,0 +1,6 @@
+C:\Projects\Prep\Practice\bin\Debug\Practice.exe.config
+C:\Projects\Prep\Practice\bin\Debug\Practice.exe
+C:\Projects\Prep\Practice\bin\Debug\Practice.pdb
+C:\Projects\Prep\Practice\obj\Debug\Practice.csprojResolveAssemblyReference.cache
+C:\Projects\Prep\Practice\obj\Debug\Practice.exe
+C:\Projects\Prep\Practice\obj\Debug\Practice.pdb
